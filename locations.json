@@ -1,16 +1,30 @@
 [
   {
-    "id":1,
-    "type":"Vehicles",
-    "title":"Obey Tailgator",
-    "notes":"You can find Michaels story car (Audi A6/A8) on the parking lot of the golf course.",
-    "order":1,
-    "lat":69.908,
-    "lng":-138.230,
+    "id":84,
+    "type":"Glitches",
+    "timestamp":"2014-07-07T10:49:21+00:00",
+    "title":"Skateboard/Surfboard",
+    "notes":"Go to the location on the beach with lots of blue fences. Run anyone of them over. Stand in the center of the fence. Shoot at the top to go forward.",
+    "order":5,
+    "lat":67.114,
+    "lng":-141.328,
     "video":{
-      "yt_id":"IdYI9VdsqT0",
-      "yt_user":"urparanoid",
-      "start":"2:13",
-      "end":"2:51"
-    }
+      "yt_id":"p7mf0A9RP0Y",
+      "yt_user":"CoreyM1469",
+      "start":"0:03",
+      "end":"0:40"
+    },
+    "credit":[
+      {
+        "what":"Glitch found",
+        "who":"CoreyM1469",
+        "where":"http://www.reddit.com/user/CoreyM1469"
+      },
+      {
+        "what":"Tutorial written",
+        "who":"/u/RustyTank",
+        "where":"http://www.reddit.com/r/gtaglitches/comments/2crrn8/gta_skateboardsurfboard_glitch/"
+      }
+    ]
+  }
 ]
