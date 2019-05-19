@@ -492,5 +492,81 @@
         "contact":"http://www.invader.life"
       }
     ]
+  },
+  {
+    "id":96,
+    "type":"Investing",
+    "timestamp":"2019-05-19T19:54:56+00:00",
+    "title":"LGBT",
+    "notes":"Min 500$, Max 5000$, 0.003",
+    "order":96,
+    "lat":69.571,
+    "lng":-128.728,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Map",
+        "url":"https://invader.life/wp-content/uploads/2019/05/lgbt.png",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
+      }
+    ]
+  },
+  {
+    "id":97,
+    "type":"Investing",
+    "timestamp":"2019-05-19T19:54:57+00:00",
+    "title":"Pets",
+    "notes":"Min 500$, Max 5000$, 0.003",
+    "order":97,
+    "lat":77.117,
+    "lng":-119.186,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Map",
+        "url":"https://invader.life/wp-content/uploads/2019/05/pets.png",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
+      }
+    ]
+  },
+  {
+    "id":98,
+    "type":"Investing",
+    "timestamp":"2019-05-19T19:54:58+00:00",
+    "title":"Wine",
+    "notes":"Min 500$, Max 5000$, 0.003",
+    "order":98,
+    "lat":75.520,
+    "lng":-142.966,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Map",
+        "url":"https://invader.life/wp-content/uploads/2019/05/wine.png",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
+      }
+    ]
+  },
+  {
+    "id":99,
+    "type":"Investing",
+    "timestamp":"2019-05-19T19:54:59+00:00",
+    "title":"Wine",
+    "notes":"Min 500$, Max 5000$, 0.003",
+    "order":99,
+    "lat":66.011,
+    "lng":-124.101,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Map",
+        "url":"https://invader.life/wp-content/uploads/2019/05/SOSISKA.png",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
+      }
+    ]
   }
 ]
