@@ -141,25 +141,25 @@ $(function() {
 	var categories = window.cats = new CategoriesCollection([
 		{
 			name: 'Parking',
-			icon: 'General/cars.png',
+			icon: 'General/cars2.png',
 			type: 'General',
 			enabled: true
 		},
 		{
 			name: 'Investing',
-			icon: 'General/money.png',
+			icon: 'General/money2.png',
 			type: 'General',
 			enabled: true
 		},
 		{
 			name: 'Appartments',
-			icon: 'General/wall-breach.png',
+			icon: 'General/wall-breach2.png',
 			type: 'General',
 			enabled: true
 		},
 		{
 			name: 'Mushrooms',
-			icon: 'General/glitches.png',
+			icon: 'General/glitches2.png',
 			type: 'General',
 			enabled: true
 		}
