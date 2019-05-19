@@ -466,5 +466,31 @@
         "contact":"http://www.invader.life"
       }
     ]
+  },
+  {
+    "id":19,
+    "type":"Parking",
+    "timestamp":"2019-05-19T19:53:19+00:00",
+    "title":"Sandy",
+    "notes":"Free Secured Parking",
+    "order":19,
+    "lat":62.936,
+    "lng":-124.310,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Map",
+        "url":"https://cdn.discordapp.com/attachments/576544764841689088/579691306045931541/2.png",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
+      },
+      {
+        "id":"2",
+        "headline":"Photo",
+        "url":"https://cdn.discordapp.com/attachments/576544764841689088/579691312564011008/1.png",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
+      }
+    ]
   }
 ]
