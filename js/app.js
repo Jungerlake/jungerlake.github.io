@@ -140,19 +140,19 @@ $(function() {
 
 	var categories = window.cats = new CategoriesCollection([
 		{
-			name: 'Инвестиции',
+			name: 'Investing',
 			icon: 'General/glitches.png',
 			type: 'General',
 			enabled: true
 		},
 		{
-			name: 'Ягодки\Грибочки',
+			name: 'Mushrooms',
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true
 		},
 		{
-			name: 'Беслатные парковки',
+			name: 'Parking',
 			icon: 'General/cars.png',
 			type: 'General',
 			enabled: true
