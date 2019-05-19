@@ -6,13 +6,13 @@
     "title":"Pillbox",
     "notes":"Free Secured Parking",
     "order":1,
-    "lat":67.554,
-    "lng":-125.343,
+    "lat":67.574,
+    "lng":-121.070,
     "images":[
       {
         "id":"1",
         "headline":"Map",
-        "url":"https://i.imgur.com/yISZPPc.png",
+        "url":"https://i.imgur.com/YZD7VFB.png",
         "author":"Lifeinvader",
         "contact":"http://www.invader.life"
       },
