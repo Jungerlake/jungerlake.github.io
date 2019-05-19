@@ -154,5 +154,83 @@
         "contact":"http://www.invader.life"
       }
     ]
+  },
+  {
+    "id":7,
+    "type":"Parking",
+    "timestamp":"2019-05-19T19:53:07+00:00",
+    "title":"Weazel News 1",
+    "notes":"Free Secured Parking",
+    "order":7,
+    "lat":66.101,
+    "lng":-131.376,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Map",
+        "url":"https://i.imgur.com/DPvNRG7.png",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
+      },
+      {
+        "id":"2",
+        "headline":"Photo",
+        "url":"https://i.imgur.com/9MygafH.jpg",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
+      }
+    ]
+  },
+  {
+    "id":8,
+    "type":"Parking",
+    "timestamp":"2019-05-19T19:53:08+00:00",
+    "title":"Weazel News 2",
+    "notes":"Free Secured Parking",
+    "order":8,
+    "lat":66.047,
+    "lng":-130.519,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Map",
+        "url":"https://i.imgur.com/tuviLBb.png",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
+      },
+      {
+        "id":"2",
+        "headline":"Photo",
+        "url":"https://i.imgur.com/XJpMql7.jpg",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
+      }
+    ]
+  },
+  {
+    "id":9,
+    "type":"Parking",
+    "timestamp":"2019-05-19T19:53:09+00:00",
+    "title":"Paleto Boulevar",
+    "notes":"Free Secured Parking",
+    "order":9,
+    "lat":82.725,
+    "lng":-127.753,
+    "images":[
+      {
+        "id":"1",
+        "headline":"Map",
+        "url":"https://i.imgur.com/H0THEpc.png",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
+      },
+      {
+        "id":"2",
+        "headline":"Photo",
+        "url":"https://i.imgur.com/CuZBIOo.jpg",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
+      }
+    ]
   }
 ]
