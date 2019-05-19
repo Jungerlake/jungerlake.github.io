@@ -2,40 +2,26 @@
   {
     "id":1,
     "type":"Parking",
-    "timestamp":"2014-06-30T19:53:43+00:00",
-    "title":"House in West Vinewood",
-    "notes":"Go to location indicated and enter the yard through the entrance shown in the images. Take a right and follow the building until it meets a white wall near a tree. Climb this wall and go West (left) to reach the back of the house. Run up to the starting position, where the grass meets the dirt such that you are facing South towards the small part of the house. Run down towards and then against the wall shown while spamming X/A. You will then slide into the house. Don't forget a parachute for more fun!",
+    "timestamp":"2019-05-19T19:00:43+00:00",
+    "title":"Pillbox",
+    "notes":"Medcenter",
     "order":1,
-    "lat":71.085,
+    "lat":67.554,
     "lng":-125.343,
     "images":[
       {
         "id":"1",
-        "headline":"Entrance to the front yard of the house.",
-        "url":"http://i.imgur.com/JCGyC9h.jpg",
-        "author":"/u/dewar420",
-        "contact":"http://www.reddit.com/user/dewar420/"
+        "headline":"Map",
+        "url":"https://i.imgur.com/yISZPPc.png",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
       },
       {
         "id":"2",
-        "headline":"Eastern side of the house showing way to back of house.",
-        "url":"http://i.imgur.com/7AFpGjJ.jpg",
-        "author":"/u/dewar420",
-        "contact":"http://www.reddit.com/user/dewar420/"
-      },
-      {
-        "id":"3",
-        "headline":"Looking towards back of house/position to stand in.",
-        "url":"http://i.imgur.com/kUdyjCx.jpg",
-        "author":"/u/dewar420",
-        "contact":"http://www.reddit.com/user/dewar420/"
-      },
-      {
-        "id":"4",
-        "headline":"View from starting position to wall-breach.",
-        "url":"http://i.imgur.com/Xm4uCqe.jpg",
-        "author":"/u/dewar420",
-        "contact":"http://www.reddit.com/user/dewar420/"
+        "headline":"Photo",
+        "url":"https://i.imgur.com/5xXEUQw.jpg",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
       }
     ]
   },
@@ -43,39 +29,25 @@
     "id":2,
     "type":"Parking",
     "timestamp":"2019-05-19T19:53:43+00:00",
-    "title":"House in West Vinewood",
-    "notes":"Go to location indicated and enter the yard through the entrance shown in the images. Take a right and follow the building until it meets a white wall near a tree. Climb this wall and go West (left) to reach the back of the house. Run up to the starting position, where the grass meets the dirt such that you are facing South towards the small part of the house. Run down towards and then against the wall shown while spamming X/A. You will then slide into the house. Don't forget a parachute for more fun!",
+    "title":"Automakers",
+    "notes":"Premium Deluxe Motosport",
     "order":2,
-    "lat":67.554,
-    "lng":-125.343,
+    "lat":65.560,
+    "lng":-125.150,
     "images":[
       {
         "id":"1",
-        "headline":"Entrance to the front yard of the house.",
-        "url":"http://i.imgur.com/JCGyC9h.jpg",
-        "author":"/u/dewar420",
-        "contact":"http://www.reddit.com/user/dewar420/"
+        "headline":"Map",
+        "url":"https://i.imgur.com/yISZPPc.png",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
       },
       {
         "id":"2",
-        "headline":"Eastern side of the house showing way to back of house.",
-        "url":"http://i.imgur.com/7AFpGjJ.jpg",
-        "author":"/u/dewar420",
-        "contact":"http://www.reddit.com/user/dewar420/"
-      },
-      {
-        "id":"3",
-        "headline":"Looking towards back of house/position to stand in.",
-        "url":"http://i.imgur.com/kUdyjCx.jpg",
-        "author":"/u/dewar420",
-        "contact":"http://www.reddit.com/user/dewar420/"
-      },
-      {
-        "id":"4",
-        "headline":"View from starting position to wall-breach.",
-        "url":"http://i.imgur.com/Xm4uCqe.jpg",
-        "author":"/u/dewar420",
-        "contact":"http://www.reddit.com/user/dewar420/"
+        "headline":"Photo",
+        "url":"https://i.imgur.com/uEIHze9.jpg",
+        "author":"Lifeinvader",
+        "contact":"http://www.invader.life"
       }
     ]
   }
