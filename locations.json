@@ -6,7 +6,8 @@
     "title":"Pillbox",
     "notes":"Free Parking",
     "order":1,
-    "lat":-121.019,
+    "lat":67.554,
+    "lng":-121.028,
     "images":[
       {
         "id":"1",
@@ -18,7 +19,7 @@
       {
         "id":"2",
         "headline":"Photo",
-        "url":"https://i.imgur.com/5xXEUQw.jpg",
+        "url":"https://i.imgur.com/5xXEUQw.jpg"
         "author":"Lifeinvader Team",
         "contact":"http://invader.life"
       },
