@@ -12,11 +12,13 @@
         "id":"1",
         "headline":"MAP",
         "url":"https://i.imgur.com/YZD7VFB.png",
+        "author":"Lifeinvader Team",
+        "contact":"http://invader.life"
       },
       {
         "id":"2",
         "headline":"Photo",
-        "url":"https://i.imgur.com/5xXEUQw.jpg",
+        "url":"https://i.imgur.com/5xXEUQw.jpg"
       },
     ]
   },
