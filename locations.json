@@ -30,8 +30,8 @@
     "title":"Ship at Merryweather docks",
     "notes":"Go to the location as seen on the interactive map, get aboard the ship and walk towards the back of the ship where there's an overhang. Wace the wall and just jump.",
     "order":42,
-    "lat":57.160,
-    "lng":-119.861,
+    "lat":40.160,
+    "lng":-110.861,
     "credit":[
       {
         "what":"Glitch found",
