@@ -140,13 +140,13 @@ $(function() {
 
 	var categories = window.cats = new CategoriesCollection([
 		{
-			name: 'Investing',
+			name: 'Mushrooms',
 			icon: 'General/glitches.png',
 			type: 'General',
 			enabled: true
 		},
 		{
-			name: 'Mushrooms',
+			name: 'Investing',
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true
